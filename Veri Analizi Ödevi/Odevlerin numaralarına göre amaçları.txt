@@ -1,0 +1,24 @@
+Veri Analizi Ödevleri
+
+ 1. 0-100 (dahil) arasında 500 adet rastgele tamsayı veri üretiniz, uygun bir dizi yapısı üzerinde saklayınız, ekrana 
+yazdırınız.
+
+ 2.25-35 (dahil) arasında 500 adet rastgele tamsayı veri üretiniz, uygun bir dizi yapısı üzerinde saklayınız, ekrana 
+yazdırınız.
+
+ 3.Ortalaması 25±5 aralığında olan 10-35 (dahil) arasında 500 adet rastgele tamsayı veri üretiniz, uygun bir dizi yapısı üzerinde 
+saklayınız, ekrana yazdırınız.
+
+4.Önceden ürettiğiniz Tamsayı bir veri setindeki verilerin;
+ 
+  Aritmetik ortalamasını bulup ekrana yazan
+  En küçük ve en büyük veriyi bulup ekrana yazan
+  Verilerin frekanslarını (hangi veriden kaç adet var, örneğin 8’den 3 adet, 21’den 6 adet vs.) ekrana yazan 
+  Tek ve çift olanlarını ayrı ayrı dizilere atayan (veri setini bölen)
+  Ortalamadan küçük olanları ve diğerlerini ayrı ayrı dizilere atayan (veri setini bölen) programı yazınız. 
+
+ 5. 0-100 (dahil) arasında 500 adet rastgele float veri üretiniz, uygun bir dizi yapısı üzerinde saklayınız, ekrana 
+yazdırınız.
+
+ 6. 0-1(dahil) arasında 500 adet rastgele float veri üretiniz, uygun bir dizi yapısı üzerinde saklayınız, ekrana 
+yazdırınız
